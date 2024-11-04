@@ -2,9 +2,10 @@ No desafio final desse repositório, o formulário deve aparecer o valor do ingr
 
 <hr>
 
+Nessa imagem mostra como é o site quando entra
 ![Captura de tela 2024-11-04 144030](https://github.com/user-attachments/assets/0a3f3ddb-ae66-4beb-b5e4-0c1939383a9a)
 
-
+Aqui após colocarseus dados
 ![Captura de tela 2024-11-04 144048](https://github.com/user-attachments/assets/bf169295-691c-4926-b354-a5624aca8c0f)
 
 Maior de idade:
